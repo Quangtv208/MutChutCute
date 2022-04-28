@@ -9,11 +9,11 @@ function hienthi() {
     } while (true);
     switch (a) {
         case "1":
-            document.getElementById("step1").innerHTML="✿Hãy yêu iem Quang✿ "
+            document.getElementById("step1").innerHTML="✿Hãy yêu iem Như Ý✿ "
         
             break;
         case "2":
-            document.getElementById("step2").innerHTML="hmmm!! Muốn giàu hãy iu Vinh Quang ✌"
+            document.getElementById("step2").innerHTML="hmmm!! Muốn giàu hãy iu Như Ý :3 ✌"
                 
             break;
     
